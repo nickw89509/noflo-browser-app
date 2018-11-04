@@ -9,7 +9,7 @@ deploy:
   script: grunt gh-pages
   on:
     tags: true
-    repo: noflo/noflo-browser-app
+    repo: nickw89509/noflo-browser-app
 env:
   global:
     secure: asjCE+KpyVtXLMiKStXk2EU43CltRR7YlJhRHnTPxqmvXboE0FLy0aCD7bVmqRbhxwkIGWXC8IFDRuu0SNsi8e1FFlQZY9OkkiGMnIfZ/8W2LFxQNVtHEg2DbThXhpKYIEphuZBTtZXwZyh+t7Hwmuqu5CPRMnGBVp8FzDkCKp0=

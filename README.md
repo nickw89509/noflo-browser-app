@@ -18,3 +18,5 @@ To enable autodeploy
 * create a [personal github access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 * Enable [Travis CI](https://travis-ci.org) for your fork
 * Change to use your own `GH_TOKEN` with `travis encrypt add GH_TOKEN=xyz123 --add`
+
+Nick
